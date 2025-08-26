@@ -1,1 +1,3 @@
-print("github work: keys")
+local keys = {
+	["YaNeSkazy"] = 'key_@wersjaefjjhJJfjJjjjjsdfg384nf'
+}
